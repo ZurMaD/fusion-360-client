@@ -4,6 +4,10 @@ Releases of exe files downloaded from here:
 
 https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Client%20Downloader.exe
 
+Hosted on Github: 
+
+https://github.com/ZurMaD/fusion-360-client/releases
+
 
 ## Screenshot
 
